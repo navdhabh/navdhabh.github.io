@@ -1,11 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Hello!
+subtitle: 
 ---
 
-My name is Navdha. I'm a second-year undergraduate in Engineering Physics at IIT Bombay.
+Hello! I'm Navdha, a second-year undergraduate currently pursuing Engineering Physics with a math minor at IIT Bombay. Though my friends would argue I'm boring, I tend to think of myself as a simple person with my own ideals that I remember to carry forward, even at times when it becomes too difficult. Besides math and physics, I'm into reading, writing (you might see a lot of it here), and art. I also take to care to not go out of touch with tech, which explains why I'm in the Mars Rover Team of the Institute, and which is also why I ever got to making this website. 
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+While you're here, enjoy!
