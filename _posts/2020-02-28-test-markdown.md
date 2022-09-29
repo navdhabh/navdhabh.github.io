@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Summer of Science 
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+subtitle: Cosmology and Dark Matter
+#gh-repo: daattali/beautiful-jekyll
+#gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
