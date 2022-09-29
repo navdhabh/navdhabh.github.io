@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 
+subtitle: I am.
 ---
 
 Hello! I'm Navdha, a second-year undergraduate currently pursuing Engineering Physics with a math minor at IIT Bombay. This is where I'll write about anything that interests/concerns me, but I shall refrain from making any strongly opinionated comments. I might also end up uploading some of the resources that you might find helpful. I'm into reading, writing (you might see a lot of it here), art, and bad puns. 
