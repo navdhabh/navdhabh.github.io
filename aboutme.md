@@ -7,3 +7,4 @@ subtitle: I am.
 Hello! I'm Navdha, a second-year undergraduate currently pursuing Engineering Physics with a math minor at IIT Bombay. This is where I'll write about anything that interests/concerns me, but I shall refrain from making any strongly opinionated comments. I might also end up uploading some of the resources that you might find helpful. I'm into reading, writing (you might see a lot of it here), art, and bad puns. 
 
 I also take to care to not go out of touch with tech which is why I ever got to making this website in the first place. So while you're here, enjoy!
+ 
