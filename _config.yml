@@ -23,9 +23,13 @@ navbar-links:
   About Me: "aboutme"
   Resources:
      - Moodle: "https://moodle.iitb.ac.in/my/"
+     - EP Sem3 resources: "https://drive.google.com/drive/folders/1ci43WxpQBYZc0dCncyUn78jjB2-GceRD"
+     - Lectures on Cosmology by Leonard Susskind, Standford University: "https://www.youtube.com/watch?v=P-medYaqVak&list=PLvh0vlLitZ7c8Avsn6gUaWX05uD5cedO-&index=2"
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
+  My resume:
+     - Resume editing link: "https://www.overleaf.com/project/6333220d784a0b4193b35263"
 
 ################
 # --- Logo --- #
