@@ -8,29 +8,12 @@ tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+This was a reading project I did under the Summer of Science initiative by the Maths and Physics Club, IIT Bombay. Since it was one of my first reading projects in college, and I did not have any of the General Relativity background required for Cosmology and Dark Matter, my mentor provided me with the resources that did not require much of GR. This majorly included Prof Leonard Susskind's lectures and a chapter based on Cosmo from Caroll and Ostlie.
 
 
-How about a yummy crepe?
+![Cosmology and Dark Matter](https://upload.wikimedia.org/wikipedia/commons/6/6f/CMB_Timeline300_no_WMAP.jpg){: .mx-auto.d-block :}
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
