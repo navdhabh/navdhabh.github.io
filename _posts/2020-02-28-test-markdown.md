@@ -2,6 +2,8 @@
 layout: post
 title: Summer of Science 
 subtitle: Cosmology and Dark Matter
+cover-img: https://upload.wikimedia.org/wikipedia/commons/6/6f/CMB_Timeline300_no_WMAP.jpg
+thumbnail-img: https://upload.wikimedia.org/wikipedia/commons/6/6f/CMB_Timeline300_no_WMAP.jpg
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 
