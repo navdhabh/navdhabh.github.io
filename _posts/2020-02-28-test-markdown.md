@@ -2,7 +2,7 @@
 layout: post
 title: Summer of Science 
 subtitle: Cosmology and Dark Matter
-cover-img: https://upload.wikimedia.org/wikipedia/commons/6/6f/CMB_Timeline300_no_WMAP.jpg
+cover-img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCpChtMlr_uLyno6OFHO21qkMFJZCq_kQBH6LtcxX9FRsPAbav53cQwA8WY3S8fSG0_I&usqp=CAU
 thumbnail-img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCpChtMlr_uLyno6OFHO21qkMFJZCq_kQBH6LtcxX9FRsPAbav53cQwA8WY3S8fSG0_I&usqp=CAU
 share-img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCpChtMlr_uLyno6OFHO21qkMFJZCq_kQBH6LtcxX9FRsPAbav53cQwA8WY3S8fSG0_I&usqp=CAU
 #gh-repo: daattali/beautiful-jekyll
