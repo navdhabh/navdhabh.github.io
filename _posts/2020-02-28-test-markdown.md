@@ -5,7 +5,7 @@ subtitle: Cosmology and Dark Matter
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 tags: [test]
-comments: true
+
 ---
 
 This was a reading project I did under the Summer of Science'22 by Maths and Physics Club, IIT Bombay. Since it was one of my first reading projects in college, and I did not have any of the General Relativity background required for Cosmology and Dark Matter, my mentor provided me with the resources that did not require much of GR. This majorly included Prof Leonard Susskind's lectures and a chapter based on Cosmo from Caroll and Ostlie.
