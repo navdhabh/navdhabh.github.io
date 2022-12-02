@@ -4,7 +4,7 @@ title: Summer of Science
 subtitle: Cosmology and Dark Matter
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-tags: [test]
+
 
 ---
 
